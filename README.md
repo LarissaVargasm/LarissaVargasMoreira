@@ -28,3 +28,9 @@ Contato: larissa.vm12b@gmail.com
 ## 🌟 Sobre mim
 Sou uma pessoa dedicada, organizada e gosto de estar sempre aprendendendo coisas novas.  
 Meu objetivo é crescer profissionalmente na área de TI, aplicando meus conhecimentos em projetos reais e colaborando em soluções criativas.
+
+---
+
+## 📫 Para contato 
+Email: larissavargasmr@gmail.com
+Telefone: (61) 996682784
