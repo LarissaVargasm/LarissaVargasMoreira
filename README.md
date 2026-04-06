@@ -1,9 +1,8 @@
 # LarissaVargasMoreira
-Apresentação
+
 # Olá, eu sou a Larissa 👋
 
 Estudante de Análise e Desenvolvimento de Sistemas (3º semestre) no Centro Universitário de Brasília- CEUB  
-
 Atualmente aprendendo Python, C e desenvolvimento front-end  
 
 
@@ -34,5 +33,4 @@ Meu objetivo é crescer profissionalmente na área de TI, aplicando meus conheci
 
 ## 📫 Para contato 
 Email: larissavargasmr@gmail.com  
-
 Telefone: (61) 996682784
