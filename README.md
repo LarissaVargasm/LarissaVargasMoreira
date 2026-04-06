@@ -19,7 +19,7 @@ Atualmente aprendendo Python, C e desenvolvimento front-end
 ---
 
 ## 📂 Projetos em destaque
-- [Calculadora em Python](link-do-repo) – Operações básicas com interface simples
+- [Calculadora em Python](https://github.com/LarissaVargasm/calculadora-python/blob/main/README.md) – Operações básicas com interface simples
 - [Sistema de cadastro em C](link-do-repo) – Projeto acadêmico para gerenciamento de dados
 - [Portfólio Web](link-do-repo) – Página pessoal com HTML/CSS
 
